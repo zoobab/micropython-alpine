@@ -7,19 +7,15 @@ Usage
 =====
 
 ```
-$ docker run -it zoobab/micropython-lede
-MicroPython v1.8.6 on 2017-12-16; linux version
+$ docker run -it zoobab/micropython-alpine
+MicroPython v3.7.0-576-gc460687f37 on 2017-12-26; linux version
 Use Ctrl-D to exit, Ctrl-E for paste mode
->>> 
 >>> import sys
->>> sys.version_info
-(3, 4, 0)
+>>> sys.implementation
+(name='micropython', version=(3, 7, 0))
 >>> sys.version
 '3.4.0'
->>> sys.implementation
-(name='micropython', version=(1, 8, 6))
->>> sys.byteorder
-'little'
+>>> 
 ```
 
 #Screenshot
