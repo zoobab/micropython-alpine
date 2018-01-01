@@ -31,3 +31,4 @@ Links
 =====
 
 * Docker hub automated built image: https://hub.docker.com/r/zoobab/micropython-alpine/
+* Same project but based on LEDE Linux: https://github.com/zoobab/micropython-lede
