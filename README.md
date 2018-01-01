@@ -18,11 +18,6 @@ Use Ctrl-D to exit, Ctrl-E for paste mode
 >>> 
 ```
 
-#Screenshot
-#==========
-#
-#![micropython docker container](micropython-docker.png)
-
 Todo
 ====
 
